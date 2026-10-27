@@ -8,7 +8,7 @@ A Krita plugin that enables real-time collaborative drawing on a shared canvas. 
 
 - Real-time drawing synchronization with approximately 70 ms latency.
 - Multi-layer document support: creation, deletion, renaming of layers, control of visibility, opacity, and blending mode.
-- Synchronization of filter layer parameters (for supported filter types).
+- ~~Synchronization of filter layer parameters (for supported filter types).~~ Not stable!
 - Two connection modes:
   - Direct TCP connection (when ports are reachable).
   - Through a relay server (for environments behind NAT).
