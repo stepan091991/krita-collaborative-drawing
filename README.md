@@ -56,3 +56,5 @@ After activation, a **Shared Access...** entry will appear in the **Tools** menu
 The host clicks Create Room, the client clicks Join Room.
 
 The relay server does not store or analyze transmitted data; it only forwards bytes between participants.
+
+### May contain bugs and errors. Written with the help of AI.
